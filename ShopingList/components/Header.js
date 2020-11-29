@@ -15,9 +15,9 @@ Header.defaultProps  = {
 
 const styles = StyleSheet.create({
   header: {
-    height: 60,
-    padding: 15,
-    backgroundColor: 'darkslateblue'
+    height: 56,
+    padding: 14,
+    backgroundColor: '#361d32'
   },
 
   text: {
